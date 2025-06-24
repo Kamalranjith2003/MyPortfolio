@@ -1,2 +1,3 @@
-currently working on it. 
+currently working on a website called portfolio that describe about me, my skill and my project. 
 coming soon.
+Stay tuned
